@@ -4,3 +4,8 @@
 
 
 Fundemental transformations of coordinate systems in geodesy.
+
+ins ---> Instantaneous Coordinate System
+cart --> Cartesian Coordinate System
+geo ---> Geographic Coordinate System
+astro -> Astronomic Coordinate System
