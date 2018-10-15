@@ -5,7 +5,7 @@
 
 Fundemental transformations of coordinate systems in geodesy.
 
-ins ---> Instantaneous Coordinate System
-cart --> Cartesian Coordinate System
-geo ---> Geographic Coordinate System
-astro -> Astronomic Coordinate System
+ins ---> Instantaneous Coordinate System<br/>
+cart --> Cartesian Coordinate System<br/>
+geo ---> Geographic Coordinate System<br/>
+astro -> Astronomic Coordinate System<br/>
