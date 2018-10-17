@@ -65,12 +65,12 @@ def cartinLocalAstro(Adeg,Amin,Asec,Bdeg,Bmin,Bsec,S,latDeg,latMin,latSec,kp):
     cosBpk = math.cos(math.radians(Bpk))
 
 
-    Xk = S * sinBpk * cosA
-    Yk = S * sinBpk * sinA
-    Zk = S * cosBpk
+    Xkussu = S * sinBpk * cosA
+    Ykussu = S * sinBpk * sinA
+    Zkussu = S * cosBpk
 
-    print("Xk : ", Xk, " m")
-    print("Yk : ", Yk, " m")
-    print("Zk : ", Zk, " m")
+    print("Xkussu : ", Xkussu, " m")
+    print("Ykussu : ", Ykussu, " m")
+    print("Zkussu : ", Zkussu, " m")
 
 #cartinLocalAstro(74,32,56.4819,88,53,25.6,13794.682,40,27,21.6348,0.13)
